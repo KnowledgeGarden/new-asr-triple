@@ -1,0 +1,267 @@
+2023-04-10T16:00:25.170-0700 DEBUG MessageProducer-
+2023-04-10T16:00:25.335-0700 DEBUG MessageProducer+
+2023-04-10T16:00:25.409-0700 ERROR SENDING {"verb":"getDictionary","clientId":"changeme"}
+2023-04-10T16:00:25.714-0700 ERROR AAA 
+2023-04-10T16:00:25.926-0700 ERROR LOADED 16644
+2023-04-10T16:00:25.932-0700 DEBUG Dictionary.addTerm ,
+2023-04-10T16:00:25.933-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:25.933-0700 DEBUG DictionaryHttpClient.addWord ,
+{"verb":"addTerm","term":",","clientId":"changeme"}
+2023-04-10T16:00:25.946-0700 DEBUG Dictionary.addTerm-2  | {"cargo":2,"isNewTerm":false}
+
+2023-04-10T16:00:25.949-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:25.949-0700 DEBUG Dictionary.addWord-4 2
+2023-04-10T16:00:25.949-0700 DEBUG Dictionary.addWord-5 2
+2023-04-10T16:00:25.950-0700 DEBUG PGgetNode 2
+2023-04-10T16:00:26.206-0700 DEBUG PWGPsplit ccnj
+2023-04-10T16:00:26.209-0700 DEBUG Dictionary.addTerm :
+2023-04-10T16:00:26.209-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.209-0700 DEBUG DictionaryHttpClient.addWord :
+{"verb":"addTerm","term":":","clientId":"changeme"}
+2023-04-10T16:00:26.213-0700 DEBUG Dictionary.addTerm-2  | {"cargo":3,"isNewTerm":false}
+
+2023-04-10T16:00:26.213-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.213-0700 DEBUG Dictionary.addWord-4 3
+2023-04-10T16:00:26.214-0700 DEBUG Dictionary.addWord-5 3
+2023-04-10T16:00:26.214-0700 DEBUG PGgetNode 3
+2023-04-10T16:00:26.214-0700 DEBUG PWGPsplit ccnj
+2023-04-10T16:00:26.216-0700 DEBUG Dictionary.addTerm ;
+2023-04-10T16:00:26.216-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.216-0700 DEBUG DictionaryHttpClient.addWord ;
+{"verb":"addTerm","term":";","clientId":"changeme"}
+2023-04-10T16:00:26.219-0700 DEBUG Dictionary.addTerm-2  | {"cargo":4,"isNewTerm":false}
+
+2023-04-10T16:00:26.219-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.219-0700 DEBUG Dictionary.addWord-4 4
+2023-04-10T16:00:26.219-0700 DEBUG Dictionary.addWord-5 4
+2023-04-10T16:00:26.219-0700 DEBUG PGgetNode 4
+2023-04-10T16:00:26.220-0700 DEBUG PWGPsplit ccnj
+2023-04-10T16:00:26.222-0700 DEBUG Dictionary.addTerm .
+2023-04-10T16:00:26.222-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.222-0700 DEBUG DictionaryHttpClient.addWord .
+{"verb":"addTerm","term":".","clientId":"changeme"}
+2023-04-10T16:00:26.223-0700 DEBUG Dictionary.addTerm-2  | {"cargo":5,"isNewTerm":false}
+
+2023-04-10T16:00:26.223-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.223-0700 DEBUG Dictionary.addWord-4 5
+2023-04-10T16:00:26.224-0700 DEBUG Dictionary.addWord-5 5
+2023-04-10T16:00:26.224-0700 DEBUG PGgetNode 5
+2023-04-10T16:00:26.224-0700 DEBUG PWGPsplit sw
+2023-04-10T16:00:26.225-0700 DEBUG Dictionary.addTerm !
+2023-04-10T16:00:26.225-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.226-0700 DEBUG DictionaryHttpClient.addWord !
+{"verb":"addTerm","term":"!","clientId":"changeme"}
+2023-04-10T16:00:26.227-0700 DEBUG Dictionary.addTerm-2  | {"cargo":6,"isNewTerm":false}
+
+2023-04-10T16:00:26.227-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.228-0700 DEBUG Dictionary.addWord-4 6
+2023-04-10T16:00:26.228-0700 DEBUG Dictionary.addWord-5 6
+2023-04-10T16:00:26.228-0700 DEBUG PGgetNode 6
+2023-04-10T16:00:26.229-0700 DEBUG PWGPsplit sw
+2023-04-10T16:00:26.229-0700 DEBUG Dictionary.addTerm ?
+2023-04-10T16:00:26.230-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.230-0700 DEBUG DictionaryHttpClient.addWord ?
+{"verb":"addTerm","term":"?","clientId":"changeme"}
+2023-04-10T16:00:26.232-0700 DEBUG Dictionary.addTerm-2  | {"cargo":7,"isNewTerm":false}
+
+2023-04-10T16:00:26.232-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.232-0700 DEBUG Dictionary.addWord-4 7
+2023-04-10T16:00:26.232-0700 DEBUG Dictionary.addWord-5 7
+2023-04-10T16:00:26.232-0700 DEBUG PGgetNode 7
+2023-04-10T16:00:26.232-0700 DEBUG PWGPsplit qw
+2023-04-10T16:00:26.234-0700 DEBUG Dictionary.addTerm (
+2023-04-10T16:00:26.234-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.234-0700 DEBUG DictionaryHttpClient.addWord (
+{"verb":"addTerm","term":"(","clientId":"changeme"}
+2023-04-10T16:00:26.238-0700 DEBUG Dictionary.addTerm-2  | {"cargo":8,"isNewTerm":false}
+
+2023-04-10T16:00:26.238-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.238-0700 DEBUG Dictionary.addWord-4 8
+2023-04-10T16:00:26.238-0700 DEBUG Dictionary.addWord-5 8
+2023-04-10T16:00:26.238-0700 DEBUG PGgetNode 8
+2023-04-10T16:00:26.239-0700 DEBUG PWGPsplit sw
+2023-04-10T16:00:26.239-0700 DEBUG Dictionary.addTerm )
+2023-04-10T16:00:26.239-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.239-0700 DEBUG DictionaryHttpClient.addWord )
+{"verb":"addTerm","term":")","clientId":"changeme"}
+2023-04-10T16:00:26.241-0700 DEBUG Dictionary.addTerm-2  | {"cargo":9,"isNewTerm":false}
+
+2023-04-10T16:00:26.241-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.241-0700 DEBUG Dictionary.addWord-4 9
+2023-04-10T16:00:26.241-0700 DEBUG Dictionary.addWord-5 9
+2023-04-10T16:00:26.241-0700 DEBUG PGgetNode 9
+2023-04-10T16:00:26.242-0700 DEBUG PWGPsplit sw
+2023-04-10T16:00:26.243-0700 DEBUG Dictionary.addTerm {
+2023-04-10T16:00:26.243-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.243-0700 DEBUG DictionaryHttpClient.addWord {
+{"verb":"addTerm","term":"{","clientId":"changeme"}
+2023-04-10T16:00:26.244-0700 DEBUG Dictionary.addTerm-2  | {"cargo":10,"isNewTerm":false}
+
+2023-04-10T16:00:26.245-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.245-0700 DEBUG Dictionary.addWord-4 10
+2023-04-10T16:00:26.245-0700 DEBUG Dictionary.addWord-5 10
+2023-04-10T16:00:26.245-0700 DEBUG PGgetNode 10
+2023-04-10T16:00:26.245-0700 DEBUG PWGPsplit sw
+2023-04-10T16:00:26.247-0700 DEBUG Dictionary.addTerm }
+2023-04-10T16:00:26.248-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.248-0700 DEBUG DictionaryHttpClient.addWord }
+{"verb":"addTerm","term":"}","clientId":"changeme"}
+2023-04-10T16:00:26.255-0700 DEBUG Dictionary.addTerm-2  | {"cargo":11,"isNewTerm":false}
+
+2023-04-10T16:00:26.256-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.256-0700 DEBUG Dictionary.addWord-4 11
+2023-04-10T16:00:26.256-0700 DEBUG Dictionary.addWord-5 11
+2023-04-10T16:00:26.256-0700 DEBUG PGgetNode 11
+2023-04-10T16:00:26.262-0700 DEBUG PWGPsplit sw
+2023-04-10T16:00:26.263-0700 DEBUG Dictionary.addTerm [
+2023-04-10T16:00:26.263-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.263-0700 DEBUG DictionaryHttpClient.addWord [
+{"verb":"addTerm","term":"[","clientId":"changeme"}
+2023-04-10T16:00:26.265-0700 DEBUG Dictionary.addTerm-2  | {"cargo":12,"isNewTerm":false}
+
+2023-04-10T16:00:26.265-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.266-0700 DEBUG Dictionary.addWord-4 12
+2023-04-10T16:00:26.266-0700 DEBUG Dictionary.addWord-5 12
+2023-04-10T16:00:26.266-0700 DEBUG PGgetNode 12
+2023-04-10T16:00:26.266-0700 DEBUG PWGPsplit sw
+2023-04-10T16:00:26.267-0700 DEBUG Dictionary.addTerm ]
+2023-04-10T16:00:26.268-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.268-0700 DEBUG DictionaryHttpClient.addWord ]
+{"verb":"addTerm","term":"]","clientId":"changeme"}
+2023-04-10T16:00:26.273-0700 DEBUG Dictionary.addTerm-2  | {"cargo":13,"isNewTerm":false}
+
+2023-04-10T16:00:26.274-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.274-0700 DEBUG Dictionary.addWord-4 13
+2023-04-10T16:00:26.274-0700 DEBUG Dictionary.addWord-5 13
+2023-04-10T16:00:26.274-0700 DEBUG PGgetNode 13
+2023-04-10T16:00:26.274-0700 DEBUG PWGPsplit sw
+2023-04-10T16:00:26.275-0700 DEBUG Dictionary.addTerm <
+2023-04-10T16:00:26.275-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.275-0700 DEBUG DictionaryHttpClient.addWord <
+{"verb":"addTerm","term":"<","clientId":"changeme"}
+2023-04-10T16:00:26.277-0700 DEBUG Dictionary.addTerm-2  | {"cargo":14,"isNewTerm":false}
+
+2023-04-10T16:00:26.277-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.277-0700 DEBUG Dictionary.addWord-4 14
+2023-04-10T16:00:26.277-0700 DEBUG Dictionary.addWord-5 14
+2023-04-10T16:00:26.277-0700 DEBUG PGgetNode 14
+2023-04-10T16:00:26.278-0700 DEBUG PWGPsplit sw
+2023-04-10T16:00:26.279-0700 DEBUG Dictionary.addTerm >
+2023-04-10T16:00:26.280-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.280-0700 DEBUG DictionaryHttpClient.addWord >
+{"verb":"addTerm","term":">","clientId":"changeme"}
+2023-04-10T16:00:26.283-0700 DEBUG Dictionary.addTerm-2  | {"cargo":15,"isNewTerm":false}
+
+2023-04-10T16:00:26.284-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.284-0700 DEBUG Dictionary.addWord-4 15
+2023-04-10T16:00:26.284-0700 DEBUG Dictionary.addWord-5 15
+2023-04-10T16:00:26.284-0700 DEBUG PGgetNode 15
+2023-04-10T16:00:26.285-0700 DEBUG PWGPsplit sw
+2023-04-10T16:00:26.285-0700 DEBUG Dictionary.addTerm '
+2023-04-10T16:00:26.286-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:26.286-0700 DEBUG DictionaryHttpClient.addWord '
+{"verb":"addTerm","term":"'","clientId":"changeme"}
+2023-04-10T16:00:26.292-0700 DEBUG Dictionary.addTerm-2  | {"cargo":16,"isNewTerm":false}
+
+2023-04-10T16:00:26.293-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:26.293-0700 DEBUG Dictionary.addWord-4 16
+2023-04-10T16:00:26.294-0700 DEBUG Dictionary.addWord-5 16
+2023-04-10T16:00:26.294-0700 DEBUG PGgetNode 16
+2023-04-10T16:00:26.295-0700 DEBUG PWGPsplit sw
+2023-04-10T16:00:26.482-0700 DEBUG Hello World
+2023-04-10T16:00:26.485-0700 ERROR SHIT 
+2023-04-10T16:00:26.485-0700 INFO Just starting
+2023-04-10T16:00:26.612-0700 DEBUG HttpClient.put http://127.0.0.1:8000 | {"text":"Elephant shit encourages flies"}
+2023-04-10T16:00:26.621-0700 DEBUG COUNT 0 0
+2023-04-10T16:00:27.262-0700 DEBUG HttpClient.codeA 200
+2023-04-10T16:00:27.263-0700 DEBUG HttpClient.codeB 200
+2023-04-10T16:00:27.268-0700 DEBUG PS1 {"data":[[],[{"strt":2,"enx":3,"txt":"encourages"}]],"dbp":[],"wkd":[],"nns":[{"strt":1,"txt":"shit"},{"strt":3,"txt":"flies"}],"pnns":[],"vrbs":[{"strt":2,"txt":"encourages"}]}
+
+2023-04-10T16:00:28.518-0700 DEBUG SentenceEngine-1 {"nodes":[{"pos":"NOUN","start":0,"i":0,"lemma":"elephant","tag":"NN","text":"Elephant","dep":"compound"},{"concepts":{"concepts":["http:\/\/sbmi.uth.tmc.edu\/ontology\/ochv#4934","http:\/\/purl.obolibrary.org\/obo\/GSSO_005526"],"text":"Elephant shit"},"pos":"NOUN","start":9,"i":1,"lemma":"shit","tag":"NN","text":"shit","dep":"nsubj"},{"pos":"VERB","start":14,"i":2,"lemma":"encourage","tag":"VBZ","text":"encourages","dep":"ROOT"},{"concepts":{"concepts":["http:\/\/purl.jp\/bio\/4\/id\/200906065349617227","http:\/\/purl.jp\/bio\/4\/id\/200906065349617227"],"text":"flies"},"pos":"NOUN","start":25,"i":3,"lemma":"fly","tag":"NNS","text":"flies","dep":"dobj"}],"tree":{"left":[{"concepts":{"concepts":["http:\/\/sbmi.uth.tmc.edu\/ontology\/ochv#4934","http:\/\/purl.obolibrary.org\/obo\/GSSO_005526"],"text":"Elephant shit"},"left":[{"pos":"NOUN","start":0,"i":0,"lemma":"elephant","tag":"NN","text":"Elephant","dep":"compound"}],"pos":"NOUN","start":9,"i":1,"lemma":"shit","tag":"NN","text":"shit","dep":"nsubj"}],"pos":"VERB","start":14,"i":2,"lemma":"encourage","right":[{"concepts":{"concepts":["http:\/\/purl.jp\/bio\/4\/id\/200906065349617227","http:\/\/purl.jp\/bio\/4\/id\/200906065349617227"],"text":"flies"},"pos":"NOUN","start":25,"i":3,"lemma":"fly","tag":"NNS","text":"flies","dep":"dobj"}],"tag":"VBZ","text":"encourages","dep":"ROOT"},"id":"s_0","text":"Elephant shit encourages flies"}
+2023-04-10T16:00:28.527-0700 DEBUG PredAssem
+[[],[{"strt":2,"enx":3,"txt":"encourages"}]]
+2023-04-10T16:00:28.529-0700 DEBUG ProcessOne Elephant shit encourages flies
+2023-04-10T16:00:28.530-0700 DEBUG DID: true {"strt":2,"txt":" encourages"}
+2023-04-10T16:00:28.530-0700 DEBUG RESOLVING
+[]
+2023-04-10T16:00:28.530-0700 DEBUG RESOLVING-1a
+[]
+2023-04-10T16:00:28.530-0700 DEBUG RESOLVING-2
+[]
+2023-04-10T16:00:28.532-0700 DEBUG RESOLVING+
+[{"strt":1,"txt":"shit"},{"strt":3,"txt":"flies"}]
+2023-04-10T16:00:28.532-0700 DEBUG Dictionary.addTerm  encourages
+2023-04-10T16:00:28.532-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:28.532-0700 DEBUG DictionaryHttpClient.addWord  encourages
+{"verb":"addTerm","term":" encourages","clientId":"changeme"}
+2023-04-10T16:00:28.536-0700 DEBUG Dictionary.addTerm-2  | {"cargo":16646,"isNewTerm":false}
+
+2023-04-10T16:00:28.537-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:28.537-0700 DEBUG Dictionary.addWord-4 16646
+2023-04-10T16:00:28.537-0700 DEBUG Dictionary.addWord-5 16646
+2023-04-10T16:00:28.537-0700 DEBUG PGgetNode 16646
+2023-04-10T16:00:28.539-0700 DEBUG PWGPsplit verb
+2023-04-10T16:00:28.540-0700 DEBUG PGgetNode 16646
+2023-04-10T16:00:28.541-0700 DEBUG PWGPsplit verb
+2023-04-10T16:00:28.542-0700 DEBUG Dictionary.addTerm shit
+2023-04-10T16:00:28.542-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:28.542-0700 DEBUG DictionaryHttpClient.addWord shit
+{"verb":"addTerm","term":"shit","clientId":"changeme"}
+2023-04-10T16:00:28.545-0700 DEBUG Dictionary.addTerm-2  | {"cargo":16647,"isNewTerm":false}
+
+2023-04-10T16:00:28.546-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:28.546-0700 DEBUG Dictionary.addWord-4 16647
+2023-04-10T16:00:28.547-0700 DEBUG Dictionary.addWord-5 16647
+2023-04-10T16:00:28.547-0700 DEBUG PGgetNode 16647
+2023-04-10T16:00:28.548-0700 DEBUG PWGPsplit noun
+2023-04-10T16:00:28.549-0700 DEBUG PGgetNode 16647
+2023-04-10T16:00:28.551-0700 DEBUG PWGPsplit noun
+2023-04-10T16:00:28.551-0700 DEBUG Dictionary.addTerm flies
+2023-04-10T16:00:28.552-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:28.552-0700 DEBUG DictionaryHttpClient.addWord flies
+{"verb":"addTerm","term":"flies","clientId":"changeme"}
+2023-04-10T16:00:28.554-0700 DEBUG Dictionary.addTerm-2  | {"cargo":6568,"isNewTerm":false}
+
+2023-04-10T16:00:28.554-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:28.554-0700 DEBUG Dictionary.addWord-4 6568
+2023-04-10T16:00:28.555-0700 DEBUG Dictionary.addWord-5 6568
+2023-04-10T16:00:28.555-0700 DEBUG PGgetNode 6568
+2023-04-10T16:00:28.555-0700 DEBUG PWGPsplit noun
+2023-04-10T16:00:28.556-0700 DEBUG PGgetNode 6568
+2023-04-10T16:00:28.556-0700 DEBUG PWGPsplit noun
+2023-04-10T16:00:28.556-0700 DEBUG WGB-X
+[shit, flies]
+[ encourages]
+2023-04-10T16:00:28.556-0700 DEBUG Dictionary.addTerm encourages
+2023-04-10T16:00:28.556-0700 DEBUG Dictionary.addTerm-1 null
+2023-04-10T16:00:28.557-0700 DEBUG DictionaryHttpClient.addWord encourages
+{"verb":"addTerm","term":"encourages","clientId":"changeme"}
+2023-04-10T16:00:28.559-0700 DEBUG Dictionary.addTerm-2  | {"cargo":171,"isNewTerm":false}
+
+2023-04-10T16:00:28.559-0700 DEBUG Dictionary.addWord-3 false
+2023-04-10T16:00:28.559-0700 DEBUG Dictionary.addWord-4 171
+2023-04-10T16:00:28.559-0700 DEBUG Dictionary.addWord-5 171
+2023-04-10T16:00:28.559-0700 DEBUG PGgetNode 171
+2023-04-10T16:00:28.560-0700 DEBUG PWGPsplit verb
+2023-04-10T16:00:28.561-0700 DEBUG PGgetNode 171
+2023-04-10T16:00:28.561-0700 DEBUG PWGPsplit verb
+2023-04-10T16:00:28.563-0700 DEBUG BigDamAnalysis
+[{"strt":2,"txt":" encourages"}]
+[{"strt":1,"txt":"shit"},{"strt":3,"txt":"flies"}]
+2023-04-10T16:00:28.563-0700 DEBUG FooBar 1 0
+{}
+2023-04-10T16:00:28.563-0700 DEBUG FooBar-1 1 0
+{"subj":{"strt":1,"txt":"shit"},"pred":{"strt":2,"txt":" encourages"}}
+2023-04-10T16:00:28.563-0700 DEBUG FooBar+
+{"subj":{"strt":1,"txt":"shit"},"pred":{"strt":2,"txt":" encourages"},"obj":{"strt":3,"txt":"flies"}}
+2023-04-10T16:00:28.563-0700 DEBUG BigDamAnalysis+
+[{"strt":1,"txt":"shit"}, {"strt":2,"txt":" encourages"}, {"strt":3,"txt":"flies"}]
+{"subj":{"strt":1,"txt":"shit"},"pred":{"strt":2,"txt":" encourages"},"obj":{"strt":3,"txt":"flies"}}
+2023-04-10T16:00:28.564-0700 DEBUG BUILDER1 1681167626494
+[org.topicquests.newasr.impl.WordGram@f01a99, org.topicquests.newasr.impl.WordGram@4a642752]
+[]
+[]
+[org.topicquests.newasr.impl.WordGram@25132fa7, org.topicquests.newasr.impl.WordGram@39ad901c]
+2023-04-10T16:00:28.569-0700 DEBUG SentenceEngineDone
+{"para_id":-1,"doc_id":-1,"txt":"Elephant shit encourages flies","id":1681167626494,"spacy":"{\"nodes\":[{\"pos\":\"NOUN\",\"start\":0,\"i\":0,\"lemma\":\"elephant\",\"tag\":\"NN\",\"text\":\"Elephant\",\"dep\":\"compound\"},{\"concepts\":{\"concepts\":[\"http:\\/\\/sbmi.uth.tmc.edu\\/ontology\\/ochv#4934\",\"http:\\/\\/purl.obolibrary.org\\/obo\\/GSSO_005526\"],\"text\":\"Elephant shit\"},\"pos\":\"NOUN\",\"start\":9,\"i\":1,\"lemma\":\"shit\",\"tag\":\"NN\",\"text\":\"shit\",\"dep\":\"nsubj\"},{\"pos\":\"VERB\",\"start\":14,\"i\":2,\"lemma\":\"encourage\",\"tag\":\"VBZ\",\"text\":\"encourages\",\"dep\":\"ROOT\"},{\"concepts\":{\"concepts\":[\"http:\\/\\/purl.jp\\/bio\\/4\\/id\\/200906065349617227\",\"http:\\/\\/purl.jp\\/bio\\/4\\/id\\/200906065349617227\"],\"text\":\"flies\"},\"pos\":\"NOUN\",\"start\":25,\"i\":3,\"lemma\":\"fly\",\"tag\":\"NNS\",\"text\":\"flies\",\"dep\":\"dobj\"}],\"tree\":{\"left\":[{\"concepts\":{\"concepts\":[\"http:\\/\\/sbmi.uth.tmc.edu\\/ontology\\/ochv#4934\",\"http:\\/\\/purl.obolibrary.org\\/obo\\/GSSO_005526\"],\"text\":\"Elephant shit\"},\"left\":[{\"pos\":\"NOUN\",\"start\":0,\"i\":0,\"lemma\":\"elephant\",\"tag\":\"NN\",\"text\":\"Elephant\",\"dep\":\"compound\"}],\"pos\":\"NOUN\",\"start\":9,\"i\":1,\"lemma\":\"shit\",\"tag\":\"NN\",\"text\":\"shit\",\"dep\":\"nsubj\"}],\"pos\":\"VERB\",\"start\":14,\"i\":2,\"lemma\":\"encourage\",\"right\":[{\"concepts\":{\"concepts\":[\"http:\\/\\/purl.jp\\/bio\\/4\\/id\\/200906065349617227\",\"http:\\/\\/purl.jp\\/bio\\/4\\/id\\/200906065349617227\"],\"text\":\"flies\"},\"pos\":\"NOUN\",\"start\":25,\"i\":3,\"lemma\":\"fly\",\"tag\":\"NNS\",\"text\":\"flies\",\"dep\":\"dobj\"}],\"tag\":\"VBZ\",\"text\":\"encourages\",\"dep\":\"ROOT\"},\"id\":\"s_0\",\"text\":\"Elephant shit encourages flies\"}","preds":[{"strt":2,"txt":" encourages"}],"dbp":[],"wd":[],"noun":[{"strt":1,"txt":"shit"},{"strt":3,"txt":"flies"}],"pnoun":[],"verb":[{"strt":2,"txt":"encourages"}],"rnoun":[{"strt":1,"txt":"shit"},{"strt":3,"txt":"flies"}]}
+2023-04-10T16:00:33.327-0700 DEBUG ASREnvironment Shutting down
