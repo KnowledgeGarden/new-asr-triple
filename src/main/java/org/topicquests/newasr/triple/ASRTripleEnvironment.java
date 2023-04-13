@@ -5,31 +5,39 @@
  */
 package org.topicquests.newasr.triple;
 
+import org.topicquests.newasr.triple.api.ITripleProvider;
+import org.topicquests.newasr.triple.impl.TripleModel;
+import org.topicquests.pg.PostgresConnectionFactory;
+import org.topicquests.newasr.triple.api.ITripleModel;
 import org.topicquests.newasr.impl.ASRBaseEnvironment;
-import org.topicquests.newasr.triple.api.IASRTripleDataProvider;
-import org.topicquests.newasr.triple.api.IASRTripleModel;
 
 /**
  * @author jackpark
  *
  */
 public class ASRTripleEnvironment extends ASRBaseEnvironment {
-	private IASRTripleModel model = null;
-	private IASRTripleDataProvider database = null;
+	private ITripleModel model;
+	private ITripleProvider database = null;
+	private PostgresConnectionFactory driver = null;
+
 	
 	/**
 	 * 
 	 */
 	public ASRTripleEnvironment() {
 		super("asr-triple-config.xml");
-		// TODO Auto-generated constructor stub
+		model = new TripleModel(this);
+
 	}
 
-	public IASRTripleModel getModel() {
+	public PostgresConnectionFactory getTripleDatabaseDriver() {
+		return driver;
+	}
+	public ITripleModel getModel() {
 		return model;
 	}
 	
-	public IASRTripleDataProvider getDatabase() {
+	public ITripleProvider getDatabase() {
 		return database;
 	}
 	

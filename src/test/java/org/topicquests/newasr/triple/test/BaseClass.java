@@ -6,7 +6,7 @@
 package org.topicquests.newasr.triple.test;
 
 import org.topicquests.newasr.triple.ASRTripleEnvironment;
-import org.topicquests.newasr.triple.api.IASRTripleModel;
+import org.topicquests.newasr.triple.api.ITripleModel;
 
 /**
  * @author jackpark
@@ -14,7 +14,7 @@ import org.topicquests.newasr.triple.api.IASRTripleModel;
  */
 public class BaseClass {
 	protected ASRTripleEnvironment environment;
-	protected IASRTripleModel model;
+	protected ITripleModel model;
 	/**
 	 * 
 	 */
